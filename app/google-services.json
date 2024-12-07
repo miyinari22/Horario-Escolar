@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335389064435",
+    "project_id": "agendaestudiantil-4eb3e",
+    "storage_bucket": "agendaestudiantil-4eb3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335389064435:android:b79efdff76fd7e199e8b86",
+        "android_client_info": {
+          "package_name": "com.miyinari.agendaestudiantil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfylgMVuegrsMbFvC11SNMkbSjEugcgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

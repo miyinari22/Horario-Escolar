@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF8C00</color>
+    <color name="pinkBright">#ED4D6E</color>
+    <color name="green">#7DDF64</color>
+    <color name="mindaro">#C0DF85</color>
+    <color name="pinkBright2">#DB6C79</color>
+</resources>
